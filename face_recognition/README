@@ -1,0 +1,11 @@
+Requirement Library 
+ Opencv   = for capturing image from camera
+ Numpy    = for mathematical calculations
+ Pillow   = to open image 
+ Os       = to get image from dataset
+ 
+This contain three files 
+
+dataset.py -> To create a dataset of images
+trainer.py -> To create a recognizer and train with dataset
+detector.py-> To click photo and recognize the name
